@@ -1,5 +1,5 @@
 # Hashir Nouman
-### I am full stack developer that love to explore new technologies. I develop high performance secure applications in Typescript and JavaScript.
+### I am full stack developer that love to explore new technologies. I develop high performance secure applications in Typescript and JavaScript. You can email me or DM me on LinkedIn for projects.
 
 
 
