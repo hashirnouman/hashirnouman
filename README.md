@@ -7,7 +7,7 @@
 
 ⚐ Based in Islamabad Pakistan
 
-ϟ Currently Exploring Go
+ϟ Currently Exploring different technolgies and languages like blockchain and go 
 
 ϟ Recently Building E-commerce Applications
 
