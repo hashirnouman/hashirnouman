@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, Hashir here. I'm a Next.js developer currently exploring the world of Python Django.<br>I'm Looking forward to collaborating on my open-source project called neugas<br>I'm Looking for help with Backend development using django<br>Ask me About React, Next.js Tailwind typescript<br>Fun Fact. I can make relatable programming memes 
+Hello, Hashir here. I'm a Next.js developer currently exploring the world of Python Django.<br>I'm Looking forward to collaborating on my open-source project called neugas<br>I'm Looking for help with Backend development using django<br>Ask me About React, Next.js Tailwind typescript<br>Fun Fact. I love to make programming memes 
 
 
 ## 🌐 Socials:
